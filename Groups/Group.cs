@@ -1,6 +1,5 @@
-namespace Revolt2D.Model3Json
+namespace Revolt2D.Model.Groups.Json
 {
-    [Serializable]
     public class Group
     {
         public required string Target;

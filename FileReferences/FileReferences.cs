@@ -1,6 +1,7 @@
-namespace Revolt2D.Model3Json
+using Revolt2D.Model.FileReferences.Json;
+
+namespace Revolt2D.Model.Json
 {
-    [Serializable]
     public class FileReferences
     {
         public required string Moc;

@@ -1,6 +1,5 @@
-namespace Revolt2D.Model3Json
+namespace Revolt2D.Model.HitAreas.Json
 {
-    [Serializable]
     public class HitArea
     {
         public required string Id;

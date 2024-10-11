@@ -1,6 +1,8 @@
-﻿namespace Revolt2D.Model3Json
+﻿using Revolt2D.Model.Groups.Json;
+using Revolt2D.Model.HitAreas.Json;
+
+namespace Revolt2D.Model.Json
 {
-    [Serializable]
     public class Model3
     {
         public required int Version;

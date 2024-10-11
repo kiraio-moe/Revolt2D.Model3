@@ -1,6 +1,5 @@
-namespace Revolt2D.Model3Json
+namespace Revolt2D.Model.FileReferences.Json
 {
-    [Serializable]
     public class Motion
     {
         public required string File;

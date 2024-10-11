@@ -1,6 +1,6 @@
 using System.Text.Json;
 
-namespace Revolt2D.Model3Json
+namespace Revolt2D.Model.Json
 {
     public class Model3Loader
     {
